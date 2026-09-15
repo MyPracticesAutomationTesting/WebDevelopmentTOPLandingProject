@@ -64,8 +64,8 @@ a {
     justify-content: space-between;
     padding-left: 100px;
     padding-right: 100px;
-    margin-bottom: 100px;
-    
+    margin-bottom: 140px;
+    height: 260px;
     
 }
 
@@ -73,11 +73,11 @@ a {
 .signup-part {
     display: flex;
     flex-direction: column;
-    gap: 10px;
     width: 400px;
     flex-wrap: wrap;
     align-items: flex-start;
     width: 50%;
+    justify-content: space-between;
 
 }
 
@@ -113,6 +113,8 @@ button {
     background-color: gray;
     flex-shrink: 0;
     justify-content: flex-end;
+    
+    
     
 }
 

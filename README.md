@@ -7,6 +7,8 @@ Using HTML and CSS in VSCode.
 
 Stock images are free and taken from www.magnific.com. Credits:
 
+<a href="https://www.magnific.com/free-vector/yellow-gold-gradients-metallic-gradients-set_9105998.htm">Image by starline on Magnific
+
 <a href="https://www.magnific.com/free-vector/smoke-flying-up-sparks-fire-particles_7741569.htm">Image by upklyak on Magnific
 
 <a href="https://www.magnific.com/free-vector/shiny-sunburst-sunbeams-abstract-sunshine-background-transparency-background-vector-illustration_21386239.htm">Image by kotkoa on Magnific
