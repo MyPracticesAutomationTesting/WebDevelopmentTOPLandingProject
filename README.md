@@ -19,3 +19,5 @@ Stock images are free and taken from www.magnific.com. Credits:
 
 ![alt text](image-1.png)
 
+Note: In Firefox, my screengrab tool can't seem to capture correctly the blue portion at the bottom part. In Chrome though, it captures fine, but it seems to narrow the space between the blue part and the footer as shown in the screenshot above, which is narrower than actual.
+
